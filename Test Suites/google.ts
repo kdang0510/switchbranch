@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>google</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>ef4d8e67-4351-4cc1-812f-768a9b432c95</testSuiteGuid>
+   <testSuiteGuid>4b9cc8c2-625c-4942-8706-0aabc44edb99</testSuiteGuid>
    <testCaseLink>
-      <guid>adf950ae-bebb-4656-ad71-c27cb9ce7292</guid>
+      <guid>e10bf024-9497-4b06-9979-bf0b04ff65dc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/New Test Case</testCaseId>
+      <testCaseId>Test Cases/google</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
