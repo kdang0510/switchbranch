@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>google</name>
+   <name>S1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>4b9cc8c2-625c-4942-8706-0aabc44edb99</testSuiteGuid>
    <testCaseLink>
-      <guid>e10bf024-9497-4b06-9979-bf0b04ff65dc</guid>
+      <guid>fb10f576-0a84-4eab-94f3-e1b3864ced80</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/google</testCaseId>
+      <testCaseId>Test Cases/TC01</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b1bd82aa-a92c-4663-9b56-1d2267c95020</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC02</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
